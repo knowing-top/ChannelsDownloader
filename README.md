@@ -11,9 +11,7 @@
 # 编译打包
 npm install      
 npm run build-all    
-npm run pack    
-
-下载地址：https://github.com/knowing-top/ChannelsDownloader/releases/download/v0.1/ChannelsDownloader.Setup.0.1.0.exe
+npm run pack 
 
 ![image](https://user-images.githubusercontent.com/11046969/169732657-f4643cf1-e893-4db9-a31f-94c8bfed0bd2.png)
 
